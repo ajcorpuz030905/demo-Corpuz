@@ -1,0 +1,30 @@
+body{
+    background-color: lightblue;
+    font-family:  Arial, sans-serif;
+    text-align:center;
+    margin-top: 150px;
+}
+
+.container{
+    background-color: white;
+    padding: 30px;
+    width: 500px;
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px gray;
+}
+
+h1{
+    color: darkblue;
+    font-size: 28px;
+}
+
+h2{
+    color: blue;
+    font-size: 22px;
+}
+
+p{
+    color: black;
+    font-size: 18px;
+}
